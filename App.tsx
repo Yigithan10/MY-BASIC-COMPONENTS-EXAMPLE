@@ -63,7 +63,7 @@ const App: React.FC = () => {
 
         <Image
           source={{uri: 'https://via.placeholder.com/200'}}
-          // source={require('<Your local Path>')}
+          // source={require('<Your Local Path>')}
           style={styles.image}
         />
 
