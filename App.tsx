@@ -12,7 +12,7 @@ import {
   Alert,
   Dimensions,
   SafeAreaView,
-} from 'react-native';
+} from 'react-native'; 
 
 interface Post {
   userId: number;
